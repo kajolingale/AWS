@@ -1,0 +1,35 @@
+Q1.What is cloud?
+Ans. Generally we use hardrive or pendrive for storing data. But this type of data storing have many disadvantages.
+Such as some time hardrive may be damaged because of that we lose all our data. To prevent from this we use cloud 
+storage system. Cloud storage system is a system where many companies make their data storing system. In this systems
+we can store our data for this we pay some money to this companies. For example google drive is a cloud storage system
+where we can store our data.
+
+Q2.Types of cloud
+Ans. There are three types of cloud:
+i.Public:
+  Whole computing infrastructure is located on the premises of a cloud computing company that offers the cloud service.
+ii.Private:
+  Hosting all your computing infrastructure yourself and is not shared. The security and control level is highest while 
+  using a private network.
+iii.Hybrid:
+    using both private and public clouds, depending on their purpose.You host your most important applications on your 
+    own servers to keep them more secure and secondary applications elsewhere.
+    
+Q3. Advantages of cloud
+Ans. Following are the advantages of cloud:
+i. cost
+ii. flexibility
+iii. functionality
+iv. security
+v. Easily Managable.
+
+Q4. What is EC2?
+Ans. EC2 is Elastic Compute Cloud. EC2 belongs to the compute domain of AWS. It provide secure and resizable compute 
+capacity in cloud. It provide ease to the developer.
+#Features of EC2:
+i. Scaling:Instances scale up and down.
+ii.Integrated with other services:S3, RDS
+iii.Pay for what you use
+iv.Instances can be launched in one or more regions or AZs
+v. support for different OS.
